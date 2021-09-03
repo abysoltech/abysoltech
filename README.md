@@ -1,5 +1,5 @@
-Here is a collection of old scripts i have collected over several years for different projects
-It's the place where I store them as my own colelction and also as helper/reminder to reuse them where I see fit
+Here is a collection of old scripts i have gathered over several years for different projects
+It's the place where I store them as my own colection and also as helpers/reminders to reuse them where adn when I see fit
 
 📫 tech@abydossolutions.com
 
